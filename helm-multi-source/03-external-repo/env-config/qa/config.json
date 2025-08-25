@@ -1,5 +1,5 @@
 {
-    "env": "bla",
+    "env": "qa",
     "region": "eu",
     "type": "non-prod",
     "version": "qa",
